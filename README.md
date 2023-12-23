@@ -19,12 +19,13 @@ Java To-Do List is a project that explores the capabilities of Java functions an
 
 Follow these steps to get started with the Java To-Do List:
 
-1. **Clone the Repository:**
-
-2. **Open in Java IDE:**
+1. Clone the Repository:
+   https://github.com/Atharva1479/GUI-Chat-Application.git
+   
+3. Open in Java IDE:
    Open the project in your preferred Java development environment (IDE).
 
-3. **Run Application:**
+4. Run Application:
    Run the `ToDoList.java` file to launch the to-do list application.
 
 ## Feedback Welcome
